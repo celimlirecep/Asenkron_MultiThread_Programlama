@@ -1,0 +1,12 @@
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\bin\Debug\TaskThreadRun.exe.config
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\bin\Debug\TaskThreadRun.exe
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\bin\Debug\TaskThreadRun.pdb
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\obj\Debug\TaskThreadRun.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\obj\Debug\TaskThreadRun.csproj.SuggestedBindingRedirects.cache
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\obj\Debug\TaskThreadRun.Form1.resources
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\obj\Debug\TaskThreadRun.Properties.Resources.resources
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\obj\Debug\TaskThreadRun.csproj.GenerateResource.cache
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\obj\Debug\TaskThreadRun.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\obj\Debug\TaskThreadRun.exe
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\obj\Debug\TaskThreadRun.pdb
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskThreadRun\TaskThreadRun\obj\Debug\TaskThreadRun.sayaclabel.resources

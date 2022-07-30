@@ -1,0 +1,15 @@
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\bin\Release\net6.0\TaskConsole.exe
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\bin\Release\net6.0\TaskConsole.deps.json
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\bin\Release\net6.0\TaskConsole.runtimeconfig.json
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\bin\Release\net6.0\TaskConsole.dll
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\bin\Release\net6.0\TaskConsole.pdb
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\TaskConsole.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\TaskConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\TaskConsole.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\TaskConsole.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\TaskConsole.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\TaskConsole.dll
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\refint\TaskConsole.dll
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\TaskConsole.pdb
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\TaskConsole.genruntimeconfig.cache
+C:\Users\recep\OneDrive\Masaüstü\Asenkron_MultiThread_Programlama\TaskConsole_3\TaskConsole\obj\Release\net6.0\ref\TaskConsole.dll
